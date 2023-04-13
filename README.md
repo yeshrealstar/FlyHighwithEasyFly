@@ -1,38 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Welcome to [FlyHigh with EasyFly](https://flyhigh-dapp.web.app/) 
 
-## Getting Started
+## FlyHigh
 
-First, run the development server:
+FlyHigh with NFTickets.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+We are decentralized distribution of airline tickets through blockchain technology and smart contracts.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Arilines Industry is worth of USD 500 billion $. Yet we have lot of challenges for present industry. 
+ 
+Here are the main Industry Challenge: 
+Customer Friction
+Every time customer compare multiple sites for getting the better and fair prices
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Complex Retailing
+Retailing in Airlines is very complex which restricts more players to come. Airlines want to sell anything to anyone, in any channel.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Lack of Data & Control
+No Fair prices. No transparent commissions. Airlines need new tech infrastructure to regain control of products, money, and data.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Non De-centralization
+Web3.0 is better for security and efficiency. Airline Industry is ready for it. 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Solution: FlyHigh with EasyFly
+What is Flyhigh?
+Flyhigh is fligth ticketing with NFtickts. 
 
-## Learn More
+airlines now expand the reach of their direct distribution strategy, increasing revenue, reducing costs, and providing a better experience for customers
+empowers customers to transfer, rename, or resell their tickets while providing airlines with a transparent, secure, and efficient distribution system.
+~ travelers can truly own and manage their tickets according to their needs
+~ trade and transfer to another traveler with full transparency and confidence.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+What are NFTickets?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+NFTickets, governed by smart contracts, enable secure, flexible, and efficient ticket distribution, reducing customer service costs and increasing revenue for airlines as they collect a fee from NFTicket trading transactions.
+~ NFTickets are bound with ticket-related rules and conditions integrated into the smart contract provided Algorand
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The rules under which these operations take place are governed by the airline through the generation of a smart contract.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+NFTicket fundamentals
+When a customer buys a ticket. NFTicket is issued on top of it.
+NFTicket can be re-named, transferred and/or traded.
+NFTicket and E-Ticket have the same fare rules and itineraries are constantly synchronized.
+NFTicket rules can be parameterized by the Airlines (Smart Contracts set up).
+Airlines have full traceability of NFTickets as data insights.
+
+NFTickets is recorded on an immutable register, providing complete traceability and transparency throughout the ticketing process. 
+
+Features:
+advance ticket buying with reselling opportunities, 
+bulk purchases,
+innovative payment methods using NFTickets as collateral, 
+More efficient and personalized experience for customers.
+
+1. De-centralized platform
+	Hence no additional cost such as ~ 1% to 2% saving
+		service charges 
+		platform charges
+
+2. NFTicket is re-sellable
+	Hence no cutting on cancellation / re-sell => 100% returns on re-selling
+Airline :: resel -> part of reselling [ part of percentage of profit ~ with conditions to airlines ]
+All user cases
+
+3. Travel Agencies make up around ~10% of the flight fare 
+	Hence we can reduce this cost.
+Intense KYC using our system.
+User with upsell with a limit.
+
+Advance Analytics now possible on individual airline flights seat ticket level
+
+NFTicket technology was built on Algorand, the world’s most secure, reliable, and sustainable blockchain and this milestone is not only transforming ticket distribution but creating the largest Utility NFT use case in blockchain.
+
+
+Staci Warden, CEO of Algorand Foundation:
+The adoption of NFTicket technology represents a significant milestone for the airline industry
+
+Finally ::
+Flexibity | Transparent | Airlines has ability to call to explore with NFTicket.
+
+Team:
+Yeshwanth Sai Melpati
+Vinay 
